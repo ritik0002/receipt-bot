@@ -1,14 +1,12 @@
 # Ignore the dataset folder
 SROIE2019/
 
-# Ignore the virtual environment (if you have one)
+# virtual enviroment
 env/
 venv/
 .venv/
-
-# Ignore Mac system files (just in case)
 .DS_Store
 
-# Ignore the Excel/CSV reports (so you don't upload your test results)
+# Ignore the Excel/CSV reports 
 *.csv
 *.xlsx
